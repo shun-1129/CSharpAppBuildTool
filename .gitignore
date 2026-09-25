@@ -427,3 +427,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+copilot-instructions.md
+.github/prompts/**
+.github/agents/**
+.github/skills/**
